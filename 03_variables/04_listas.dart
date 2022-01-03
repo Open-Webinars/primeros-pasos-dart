@@ -30,4 +30,6 @@ void main() {
   print(palabras);
 
   // listInt.addAll(listDouble);
+
+  //TODO: Revisar y ampliar el apartado
 }
