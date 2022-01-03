@@ -5,6 +5,9 @@ void main() {
   List<int> listInt = [1, 2, 3];
   List<double> listDouble = [1.0, 2.0, 3.9];
 
+  print(listInt.first);
+  print(listInt.last);
+
   List<String> palabras = ["esta", "es", "una", "lista", "de", "Strings"];
   print(palabras);
 
