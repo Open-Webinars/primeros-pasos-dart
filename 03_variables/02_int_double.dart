@@ -54,4 +54,8 @@ void main() {
   print(numeroR ~/ 2);
 
   print((numeroR / 7).truncate());
+
+  var b = double.parse("9");
+
+  print(b);
 }
