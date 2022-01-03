@@ -19,6 +19,20 @@ void main() {
   print(frase.replaceAll(nombre, nombre2));
 }
 
+EJERCICIO 3
+Imprimir el número de caracteres de la suma de los numeros "3", "5" y "104"
+
+void main() {
+  int numero1 = 3;
+  int numero2 = 5;
+  int numero3 = 107;
+
+  int suma = numero1 + numero2 + numero3;
+  String suma2 = suma.toString();
+
+  print(suma2.length);
+}
+
 */
 
 
