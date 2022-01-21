@@ -14,7 +14,6 @@ int sumar({required int numero1, required int numero2}) {
 
 String saludar() {
   String mensaje = "¡Bienvenid@ a OpenWebinars!";
-  // print(mensaje);
 
   return mensaje;
 }
